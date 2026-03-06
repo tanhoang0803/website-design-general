@@ -41,3 +41,7 @@ This project follows a screenshot-driven design workflow:
 2. Screenshot the rendered page
 3. Compare against the reference and fix mismatches
 4. Repeat until pixel-perfect
+
+## Reference
+
+- [roadmap.sh - Basic HTML Website](https://roadmap.sh/projects/basic-html-website)
